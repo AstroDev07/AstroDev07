@@ -33,7 +33,7 @@ I'm actually learning C/C++.
   </div>
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=js,c,html,php" />  
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,nodejs,php,html,express,css&perline=3" />  
   </div>  
 
 <div align="center">  
@@ -41,5 +41,5 @@ I'm actually learning C/C++.
   </div>  
   
   <div align="center">  
-    <img src="https://skillicons.dev/icons?i=git,linux" />   
+    <img src="https://skillicons.dev/icons?i=git,linux,github" />   
   </div>
