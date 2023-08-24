@@ -33,7 +33,7 @@ I'm actually learning C/C++.
   </div>
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=js,c,html,node,php" />  
+    <img src="https://skillicons.dev/icons?i=js,c,html,php" />  
   </div>  
 
 <div align="center">  
