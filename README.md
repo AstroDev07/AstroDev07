@@ -43,3 +43,6 @@ I'm actually learning C/C++.
   <div align="center">  
     <img src="https://skillicons.dev/icons?i=git,linux,github" />   
   </div>
+
+
+<a href="https://app.daily.dev/astrouser"><img src="https://api.daily.dev/devcards/118070173f1e4f7080b3c5042bb7aaa9.png?r=kwg" width="400" alt="Astro☄'s Dev Card"/></a>
