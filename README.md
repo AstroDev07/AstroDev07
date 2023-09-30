@@ -27,9 +27,6 @@ Actualmente estoy Trabajando en mi Blog Personal y en proyectos menores para cua
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AstroDev07&theme=slateorange" />  
   </div> 
 
-
-<a href="https://app.daily.dev/astrouser"><img src="https://api.daily.dev/devcards/118070173f1e4f7080b3c5042bb7aaa9.png?r=kwg" width="400" alt="Astro☄'s Dev Card"/></a>
-
 <div align="center">  
     <img src="https://img.shields.io/badge/Languages:-blue" />  
   </div>
