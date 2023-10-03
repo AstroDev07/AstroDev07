@@ -8,6 +8,8 @@ Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
 
 **Actualmente estoy trabajando en mi Blog Personal** y en proyectos menores cuando tengo menos tiempo.
 
+> Mientras más inteligente te vuelves, menos hablas.
+
 <div align="center">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AstroDev07&theme=slateorange" />  
   </div>
