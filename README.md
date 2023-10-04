@@ -30,7 +30,6 @@ ___
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AstroDev07&theme=slateorange" />  
   </div>
 ___
-
 ## Más Información. 
 
 <div align="center">  
