@@ -9,7 +9,8 @@ Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
 **Actualmente estoy trabajando en mi Blog Personal** y en proyectos menores cuando tengo menos tiempo.
 
 > *Si no pagas por el producto, entonces tu eres el producto.*
-
+___
+## Mis Estadísticas.
 <div align="center">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AstroDev07&theme=slateorange" />  
   </div>
@@ -27,7 +28,9 @@ Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
 <div align="center">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AstroDev07&theme=slateorange" />  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AstroDev07&theme=slateorange" />  
-  </div> 
+  </div>
+___
+## Más Información. 
 
 <div align="center">  
     <img src="https://img.shields.io/badge/Languages:-blue" />  
