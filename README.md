@@ -50,5 +50,5 @@ Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
   </div>
 
 <div align="center">
-<a href="https://dev.to/astrodev07"><img src="https://skillicons.dev/icons?devto" /></a>
+<a href="https://dev.to/astrodev07"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </div>
