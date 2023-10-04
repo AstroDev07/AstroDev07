@@ -34,7 +34,7 @@ Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
   </div>
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,nodejs,php,html,express,css&perline=3" />  
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,nodejs,php,html,express,js&perline=3" />  
   </div>  
 
 <div align="center">  
@@ -44,3 +44,11 @@ Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
   <div align="center">  
     <img src="https://skillicons.dev/icons?i=git,linux,github" />   
   </div>
+
+<div align="center">  
+    <img src="https://img.shields.io/badge/Follow Me:-blue" />  
+  </div>
+
+<div align="center">
+<a href="https://dev.to/astrodev07"><img src="https://skillicons.dev/icons?devto" /></a>
+</div>
