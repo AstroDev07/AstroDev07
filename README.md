@@ -14,22 +14,22 @@ Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
 ___
 ## Mis Estadísticas.
 <div align="center">  
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AstroDev07&theme=slateorange" />  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AstroDev07&theme=github_dark" />  
   </div>
 
 
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroDev07&langs_count=5&theme=great-gatsby">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroDev07&langs_count=5&theme=github_dark">  
   </div>
 
 
 <div align="center">  
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AstroDev07&theme=rising-sun&hide_border=true" />  
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AstroDev07&theme=github_dark&hide_border=true" />  
   </div>
 
 <div align="center">  
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AstroDev07&theme=slateorange" />  
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AstroDev07&theme=slateorange" />  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AstroDev07&theme=github_dark" />  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AstroDev07&theme=github_dark" />  
   </div>
 
 ## Más Información. 
