@@ -6,8 +6,10 @@ Soy un **programador autodidacta y fanático de Linux**.
 
 Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
 
-**Actualmente estoy trabajando en mi Blog Personal** y en proyectos menores cuando tengo menos tiempo.
+**Actualmente estoy estudiando para el Concurso Escolar de Informática** y en proyectos menores cuando tengo tiempo libre.
 
+
+*Una frase de mi agrado*
 > *Si no pagas por el producto, entonces tu eres el producto.*
 ___
 ## Mis Estadísticas.
