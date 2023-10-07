@@ -39,7 +39,7 @@ ___
   </div>
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,nodejs,express&perline=3" />  
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,nodejs,php&perline=3" />  
   </div>  
 
 <div align="center">  
