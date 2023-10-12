@@ -35,20 +35,12 @@ ___
 ## Más Información. 
 
 <div align="center">  
-    <img src="https://img.shields.io/badge/Languages:-blue" />  
+    <img src="https://img.shields.io/badge/Tech Stack:-blue" />  
   </div>
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,php,html&perline=3" />  
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,php,express,nodejs,github,bash,linux,git&perline=4" />  
   </div>  
-
-<div align="center">  
-    <img src="https://img.shields.io/badge/Development:-blue" />  
-  </div>  
-  
-  <div align="center">  
-    <img src="https://skillicons.dev/icons?i=git,linux,github,express,nodejs&perline=3" />   
-  </div>
 
 <div align="center">  
     <img src="https://img.shields.io/badge/Follow Me:-blue" />  
