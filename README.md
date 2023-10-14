@@ -19,7 +19,7 @@ ___
 
 
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroDev07&langs_count=5&theme=github_dark&hide=html">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroDev07&langs_count=5&theme=github_dark&hide=html,java">  
   </div>
 
 
