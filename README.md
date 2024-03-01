@@ -1,16 +1,13 @@
 <div align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A6ED&center=true&vCenter=true&width=560&height=70&lines=Hello%21+I%27m+Astro☄%21+%F0%9F%91%8B">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A6ED&center=true&vCenter=true&width=560&height=70&lines=Hello%21+I%27m+Diego☄%21+%F0%9F%91%8B">  
 </div>
 
 Soy un **programador autodidacta y fanático de Linux**.
 
 Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
 
-**Actualmente estoy estudiando para el Concurso Escolar de Informática** y en proyectos menores cuando tengo tiempo libre.
+**Actualmente estoy estudiando para Ingresar en la Universidad de Ciencias Informáticas de Cuba** y en proyectos menores cuando tengo tiempo libre.
 
-
-*Una frase de mi agrado*
-> *Si no pagas por el producto, entonces tu eres el producto.*
 ___
 ## Mis Estadísticas.
 <div align="center">  
