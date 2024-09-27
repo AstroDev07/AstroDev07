@@ -2,22 +2,24 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A6ED&center=true&vCenter=true&width=560&height=70&lines=Hello%21+I%27m+Diego%21+%F0%9F%91%8B">  
 </div>
 
-Soy un **programador autodidacta y fanático de Linux**.
-Me gusta aprender cosas nuevas todos los días y ayudar a otras personas.
+📚 I'm a self-taught developer💻
 
-Soy de Cuba. Desde muy pequeño me ha apasionado el mundo de la tecnología, por lo que decidí incursionar en la programación, siendo el Desarrollo Web mi punto de Inicio.
 
-Más adelante, decidí que era el Backend lo que más me llamaba la atención, por lo que escogí JavaScript(Node.js), como el lenguaje que más a fondo estudiaría. Siempre que tengo tiempo, me gusta investigar sobre la actualidad en el mundo de la programación, y compartir lo que encuentro en mi <a href="t.me/degcode">Canal de Telegram</a>. También me gusta desarrollar pequeños proyectos personales o en equipo.
+📌 I have a Web Site, https://astrodev07.github.io
+
+🌱 Fun fact, I'm from Cuba🇨🇺
+
+❤️ I love JavaScript and Linux🐧
 
 ___
-## Mis Estadísticas.
+## 📈My Stats
 <div align="center">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AstroDev07&theme=github_dark" />  
   </div>
 
 
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroDev07&langs_count=5&theme=github_dark&hide=java&layout=compact">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroDev07&langs_count=5&theme=github_dark&&layout=compact">  
   </div>
 
 
@@ -30,10 +32,10 @@ ___
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AstroDev07&theme=github_dark" />  
   </div>
 
-## Más Información. 
+## ℹ️More Info 
 
 <div align="center">  
-    <img src="https://img.shields.io/badge/Tecnologías:-blue" />  
+    <img src="https://img.shields.io/badge/Tech Stack:-blue" />  
   </div>
 
 <div align="center">  
@@ -41,7 +43,7 @@ ___
   </div>  
 
 <div align="center">  
-    <img src="https://img.shields.io/badge/Sígueme en:-blue" />  
+    <img src="https://img.shields.io/badge/Follow Me:-blue" />  
   </div>
 
 <div align="center">
